@@ -1,0 +1,35 @@
+百度云服务器配置
+182.61.26.45
+@liufei123456
+
+SVN
+zhoudong
+zhoudong
+
+微信公众号 
+842305890@qq.com 
+hnyjl123
+
+颜家洛
+备案号 A20171210-0005
+
+正式号
+token liufei123
+appid wx73afbfdf637d76b2
+AppSecret  6152bd4abaa044f7953176d0427854e6
+
+测试号
+appid wx8a5142b604a20e6b
+appsecret 1cf03f906ec990b7d39394aed93872bb	
+
+
+eclipse servers选项卡双击Tomcatv7.0，直接修改tomcat端口号为80
+ngrok命令 ngrok.exe http 80，内外网穿透
+
+微信测试号网页授权域名 例如6a752ae3.ngrok.io，不用加“http,www”;
+
+
+
+
+
+
