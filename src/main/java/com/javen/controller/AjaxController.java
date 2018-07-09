@@ -34,6 +34,10 @@ import com.jfinal.plugin.ehcache.CacheKit;
 public class AjaxController extends Controller {
 	private Log log=Log.getLog(AjaxController.class);
 	private AjaxResult result = new AjaxResult();
+	
+	
+	
+	
 	/**
 	 * 百度翻译
 	 */
